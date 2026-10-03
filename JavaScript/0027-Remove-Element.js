@@ -8,7 +8,7 @@ function removeElements(nums,val){
     }
     return x;
 }
-console.log(removeElements([0,1,2,2,3,0,4,2],2))
+console.log(removeElements([0,1,2,2,3,0,4,2],2));
 
 
 

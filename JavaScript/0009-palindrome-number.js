@@ -1,3 +1,8 @@
+/**
+ * LeetCode #9 - Palindrome Number
+ * Difficulty: Easy
+ */
+
 const isPalindrome = function (x){
     let str = x.toString();
     let reversed = str.split("").reverse().join("");
